@@ -1,0 +1,415 @@
+ 23
+
+
+TEXT PLAC AUT/AUTO GRAT CLAM/CLAIM CRAC/CRAT PUNC POT GreekandLatin
+Borrowings
+Quiz23-1 Quiz23-2 Quiz23-3 Quiz23-4 Quiz23-5 ReviewQuizzes23
+
+TEXT comes from a Latin verb that means "to weave." So a textile is a woven or knit ted cloth. The material it 's made from determines it s texture, the smoothness or roughness of it s surface. And individual words are "woven" into sentences and paragraphs to form a text.
+ 
+textual
+     Having to do with or based on a text .
+
+
+E.g.
+ A textual analysis of 1,700 lipstick names, including Hot Mama and Raisin Hell, suggested to the author that the women buying them lack a healthy sense of self-worth.
+
+
+Before the invention of the printing press, books were produced by hand. When the text of a book is copied this way, textual errors can creep in, and a text that 's been copied again and again can contain many such errors. By comparing different copies of a work, textual critics try to figure out where the copyist s went wrong and rest ore the text to it s original form so that modern readers can again enjoy the correct versions of ancient text s. When a class performs textual analysis of a poem, however, they are looking closely atit s individual words and phrases in an effort to determine the poem's meanings.
+ 
+context                    (1) The surrounding spoken or writ ten material in which a word or remark occurs. (2) The conditions or circumstances in which an event occurs; environment or set ting.
+
+
+E.g.
+ The governor claimed thathis remarks were taken out of contextand thatanyone looking at the whole speech would geta differentimpression.
+
+
+Contextreveals meaning. The context of an unfamiliar word can give us contextual clues to help us determine what the word means. Taking a remark out of context can change it s meaning entirely. Likewise, people's actions sometimes have to be underst ood as having occurred in a particular context . The behavior of hist orical figures  should  be  seen  in  the context of their time, when standards may have been very different from our own.
+ 
+hypertext                        A database format  in which information related to that  on a display screen can be accessed direct ly from the screen (as by a mouse click).
+
+
+E.g.
+ Three days ago my mother was asking me why some of the words are underlined in blue, but by yesterday she was already an expertin hypertext .
+
+
+Since hyper- generally means "above, beyond" (see HYPER), hypertextis something that 's gone beyond the limitations of ordinary text . Thus, unlike the textin a book, hypertext permit s you, by clicking with a mouse, to immediately  access  text  in  one  of  millions  of  differentelectronic sources. Hypertextis now so familiar that most computer users may noteven know the word, which was coined by Ted Nelson back in the early 1960s. It t ook a few more years for hypertext to actually be created, by Douglas Engelbart , and then quite a few more years before the introduction of the World Wide Web in 1991.
+ 
+subtext
+The underlying meaning of a spoken or writ ten passage.
+
+
+E.g.
+ The t ough and cynical t one of the st ory is contradicted by it s romantic subtext .
+
+
+A literary text often has more than one meaning: the literal meaning of the words on the page, and their hidden meaning, whatexist s "bet ween the lines"-the subtext . Arthur Miller's play The Crucible, for example, is about the Salem witchcraft trials of the 17th century, butit s subtextis the comparison of those trials with the "witch hunt s" of the 1950s, when many people were unfairly accused of being communist s. Even a social conversation bet ween a man and a woman may have a subtext , butyou may have to listen very closely to figure out whatitis. Don't  confuse subtext with subplot, a less important plot that moves along in parallel with the main plot .
+ 
+PLAC comes from the Latin placere, "to please or be agreeable t o," or placare, "to soothe or calm." Pleasant, pleasurable, and pleasing all derive from this root , even though their spelling makes ithard to see.
+ 
+placate                      To calm the anger or bit terness of someone.
+
+
+E.g.
+ The Romans had a number of ways of placating the gods, which occasionally included burying slaves alive.
+
+
+Politicians are constant ly having to placate angry voters. Diplomat s frequent ly need to placate a country's allies or possible enemies. Parent s are always placating kids who think they've been unfairly denied something. And lovers and spouses are some of the champion placaters. It 's no secret that people with the best social skills are often the bestat placating other people
+-and that they themselves may be the ones who benefit the most by it .
+ 
+placebo                  A  harmless  substance  given to a  patient  in  place  of  genuine medication, either for experimental purposes or to soothe the patient .
+
+
+E.g.
+ The placebo worked miraculously: his skin rash cleared up, his sleep improved, and he even ceased to hear voices.
+
+
+Doct ors doing research on new treat ment s for disease often give one group a placebo while a second group takes the new medication. Since those in the placebo group usually believe they're get ting the real thing, their own hopeful at tit ude may bring aboutimprovementin their condition. Thus, for the real drug to be considered effective, it must produce even bet ter result s than the placebo. Placebos have another use as well. A doct or who suspect s thata patient 's physical sympt oms are psychologically produced may prescribe a placebo in the hope that mentally produced sympt oms can also be mentally cured.
+ 
+placidity Serene freedom from interruption or disturbance; calmness.
+
+
+E.g.
+ Her placidity seemed eerie in view of the destruction she had wit nessed and the huge loss she had suffered.
+
+
+A placid  lake  has  a  smooth  surface  unt ouched  by  wind. A placid  scene  is  one  in  which everything seems calm; it may even include a meadow with a few placid cows grazing on it . Someone with a placid personality has an inner peacefulness thatisn'teasily disturbed. As a personality  trait , placidity is surely a lot  bet ter than some of the alternatives; however, the word sometimes describes people who are also a bit passive, like those contented cows.
+ 
+implacable
+      Not capable of being pleased, satisfied, or changed.
+
+
+E.g.
+ At tempt s to negotiate a peace set t lement bet ween such implacable enemies seem doomed to failure.
+
+
+Implacable, with it s negative prefix im-, describes something or someone that can't be calmed or soothed or altered. A person who carries a grudge feels an implacable resent ment -a resent ment that can't be soothed. An implacable foe is one you can't negotiate with, perhaps one who's fueled by implacable hatred. And implacable sometimes describes things that only seem to be alive: an implacable st orm is one that seems as if it will never let up, and an implacable fate is one thatyou can't outrun or hide from.
+ 
+
+ 
+AUT/AUTO comes from the Greek word for "same" or "self." Something automatic operates by it self, and an automobile moves by it self, without the help of a horse. An autograph is in the handwriting of the person him- or herself, and an autopsy is an inspection of a corpse by an examiner's own eyes.
+ 
+aut omat on                           (1) An aut omatic machine, especially a robot . (2) An individual who act s mechanically.
+
+
+E.g.
+ The work he used to do as a welder in the assembly planthas been taken over by a sophisticated aut omat on designed overseas.
+
+
+The idea of the aut omat on has fascinated people for many centuries. A traveler to the emperor's courtin Byzantium in A.D. 949 reported that mechanical birds satin a golden tree singing the songs of their species; that  mechanical lions  flanked  the  throne, roaring  and switching their great tails; and that , as he st ood watching, the emperor's throne suddenly shot upward t oward the high ceiling, and when it slowly descended the emperor was wearing new robes. Early aut omata (notice the common plural form) often relied on water, steam, or falling weight s to power them. Today aut omata, often called robot s, are used in manufacturing plant s to build not only vehicles butalso much smaller electronic equipment .
+ 
+aut oimmune                          Of, relating t o, or caused by antibodies thatat tack molecules, cells, or tissues of the organism producing them.
+
+
+E.g.
+ His doct ors suspected that the strange combination of sympt oms might be those of an aut oimmune disease.
+
+
+Any healthy body produces a variety of antibodies, proteins in the blood whose job is to protect the body from unwanted bacteria, viruses, and cancer cells. The cells and organs that deal with such infections make up the immune system. In some people and animals, for various reasons, the antibodies become overactive and turn on the body's healthy tissues as well; the resultis an aut oimmune disease-an immune response directed against one's own self. More than eighty aut oimmune diseases have been identified, the best -known being type 1 diabetes, multiple sclerosis, lupus, and rheumat oid arthritis.
+ 
+aut onomy                   (1) The  power or right  of  self-government . (2) Self-directing freedom, especially moral independence.
+
+
+E.g.
+ Though normally respect ful of their son's aut onomy, the Slocums drew the line athis request to take a cross-country mot orcycle trip.
+
+
+Since nomos is Greek for "law," something autonomous makes it s own laws. The amount of aut onomy enjoyed by French-speaking Quebec, or of Palestinians in certain t owns in Israel, or of independent -minded regions of Russia, have become major issues. The aut onomy of individual states in the United States has posed serious constit utional questions for two centuries. The aut onomy of children is almostalways limited by their parent s. But when those parent s are elderly and begin driving poorly and get ting confused about their finances, their children may see the need to limit their aut onomy in much the same way.
+ 
+autism                \  A condition that begins in childhood and causes problems in forming social relationships and in communicating with others and includes behavior in which certain activities are constant ly repeated.
+
+
+E.g.
+ She was beginning to think thather four-year-old's strange behavior and complete lack of interestin his playmates might be due to autism.
+
+
+Autism, in it s strict sense, becomes evident before the age of 3. The autistic child generally refuses to talk, becomes obsessive about t oys,  resist s  any  change  vehement ly,  and sometimes flies into unexplained rages. Autism is believed to be biological in origin, and seems to be related to several milder conditions such as Asperger's syndrome. As many as 1 in 100 children, most ly boys, may have autism, Asperger's, or a related condition. About one in ten autistic children turns out to have a remarkable mental gift , such as the ability to play a difficult piece on the piano after a single hearing or repair a complex machine without  any training. Many autistic children seem to grow out of itas they become adult s, and some autistic adult s manage to live independent ly. Autistic is sometimes used loosely to describe a much more common kind of psychological withdrawal in adult s.
+ 
+GRAT comes from the Latin words gratus, meaning "pleasing, welcome, or agreeable," and gratia, meaning "grace, agreeableness, or pleasant ness." A meal that 's served graciously will be received with gratitude by grateful guest s; those who show no appreciation could be called ingrates.
+ 
+gratify                       (1)  To  be  a  source  of  pleasure  or  satisfaction;  give  pleasure  or satisfaction t o. (2) To give in t o; indulge or satisfy.
+
+
+E.g.
+ It gratified him immensely to see his daughter bloom so beautifully in high school.
+
+
+A gratifying experience is quiet ly pleasing or satisfying. But gratifying an impulse means giving in to it , which isn'talways such a good idea, and "instant gratification" of every desire will resultin a life based on junk food and worse. Truly gratifying experiences and accomplishment s usually are the result of time and effort .
+ 
+grat uity
+ Something, especially a tip, given freely.
+
+
+E.g.
+ After sit ting for three hours over a six-course meal at Le Passage, we always leave the waiter a very generous grat uity.
+
+
+Gratuity is a fancier and more formal word than tip. It occurs most often in writ ten notices along the lines of "Grat uities accepted." It s formality makes it best suited for describing tips of the dignified, expensive variety. For the taxi driver who takes you to the superb Belgian restaurant , it 's a tip; for the restaurant 's maitre d', it 's a grat uity.
+ 
+grat uit ous
+   Not called for by the circumstances.
+
+
+E.g.
+ Members of the commit tee were objecting to what they considered grat uit ous violence on television.
+
+
+In it s original sense, gratuitous can refer to anything given freely, like a tip. But the word now almostalways applies to something that 's seen as not only unnecessary (like a tip, which you don'treally have to give) butalso unwelcome. To insult or criticize someone gratuitously is to make a hurt ful remark that 's uncalled for and undeserved. But scenes in a film thatyou yourself might call grat uit ous were, unfort unately, probably put there to at tractan audience that want s to see them.
+ 
+ingratiate
+To gain favor or acceptance by making a deliberate effort .
+
+
+E.g.
+ None of her at tempt s to ingratiate herself with the professor seemed to improve her grades.
+
+
+To ingratiate yourself is to putyourself in someone's good graces-thatis, to gain someone's approval. People often try to ingratiate themselves by engaging in an activity known by such names as bootlicking, apple-polishing, and brownnosing. But some people are able to win favor just by relying on their ingratiating smiles.
+ 
+
+ 
+CLAM/CLAIM comes from the Latin verb clamare, meaning "to shout  or cry out ." To claim
+often means "to call for." And an exclamation is a cry of shock, joy, or surprise.
+ 
+clamor           (1) Noisy shouting; loud, continuous noise. (2) Strong and active protest or demand.
+
+
+E.g.
+ The clamor in the hallways bet ween classes was particularly loud that morning as news of the state championship swept through the st udent body.
+
+
+The clamor on Broadway at midday can be ast onishing to a t ourist from a midwestern t own; if they happen to be digging up the street with jackhammers, the clamor can be even worse. The clamor on the floor of a st ock exchange goes on without st opping for seven hours every day. A clamor of protest may sometimes be quieter, butis often justas hard to ignore. A politican who receives a thousand e-mails a day clamoring for his resignation mightas well be listening to an angry crowd.
+ 
+acclamation                          (1)  A  loud,  eager  indication  of  approval,  praise,  or agreement . (2) An overwhelming yes vote by cheers, shout s, or applause.
+
+
+E.g.
+ To the principal's suggestion that Friday be a holiday to honor the vict ors in the national math olympics, the st udent s yelled their approval in a long and loud acclamation.
+
+
+Approval can come from a single person, butacclamation requires a larger audience. An acclaimed movie is widely praised, and critical acclaim can lead to box-office success. When a popular proposal comes up in a legislature, the speaker may ask thatit be passed "by acclamation," which means thateveryone just get s to yell and cheer in approval and no one bothers counting the votes atall.
+ 
+declaim                      To speak in the formal manner of someone delivering a speech.
+
+
+E.g.
+ Almostany opinion can sound convincing if it 's declaimed loudly and with conviction.
+
+
+Declaiming suggest s an unnatural style of speech best suited to a stage or podium. Listening to an act or declaim a passage in a Shakespeare play can be enjoyable. Listening to Aunt Ida at Sunday dinner declaiming on the virt ues of roughage might not be. Most people don'tappreciate being treated as an audience, and good advice is usually more welcome when it 's not given in a declamatory style.
+ 
+proclaim                         To declare or announce publicly, officially, or definitely.
+
+
+E.g.
+ He burstinto the dorm room, jumped onto his bed, and proclaimed thathe had justaced the sociology exam.
+
+
+Th e pro- in proclaim  means  "forward, out ,"  so  a proclamation  is  an  "out ward"  statementintended for the public. We often think of proclamations as something issued by monarchs or dictat ors, but Lincoln was able to issue his Emancipation Proclamation because as presidenthe had the power to free the slaves in certain areas. Ata slight ly lower level, a governor may proclaim a day in honor of the state's firemen, a movie critic may proclaim a direct or to be the best of all, or you may proclaim your New Year's resolutions to a crowd of friends.
+ 
+CRAC/CRAT comes from the Greek word meaning "power." At tached to another root , itindicates which group holds the power. With demos, the Greek word for "people," it forms democracy, a form of governmentin which the people rule. A theocracy, from the Greek theos, "god," is government based on divine guidance. In a meritocracy, people earn power by their own merit .
+ 
+arist ocrat
+ The highest social class in a country, usually because of birth and wealth.
+
+
+E.g.
+ A wealthy arist ocrat from a famous European family, she surprised everyone by becoming a supporter of lit t le-known jazz musicians.
+
+
+Since aristos means "best " in Greek, ancient Greeks such as Plato and Arist ot le used the word aristocracy to mean a system of rule by the best people-thatis, those who deserved to rule because of their intelligence and moral excellence. But this kind of  "best "  soon  became something you could inherit from your parent s. The United States has no formal arist ocracy- no noble tit les such as baron or marquis that stay in the family-but certain American families have achieved an almostaristocratic stat us because  of the wealth they've  held onto for generations.
+ 
+aut ocratic                        (1) Having to do with a form of governmentin which one person rules. (2) Resembling the ruler of such a government .
+
+
+E.g.
+ It 's hard to believe thata guy who seems so nice to his friends is an aut ocratic boss who sometimes fires people just because he's in a bad mood.
+
+
+Autos in Greek means "same" or "self," so in an aut ocratic governmentall the power is held by the leader him- or herself. Aut ocratic government s are often called dictat orships, or sometimes autocracies. In everyday life, a teacher, a  parent , or a  foot ball coach  can  all behave  like aut ocrat s as well.
+ 
+bureaucrat                 (1) An  appointed  government  official. (2) An  official  of  a government or system thatis marked by fixed and complex rules that often resultin long delays.
+
+
+E.g.
+ To set t le his insurance claim he had to make his way through four or five bureaucrat s, every one of them with a new form to fill out .
+
+
+In French, a bureau is a desk, so bureaucracy means basically "government by people at desks." Despite the bad-mouthing they often get , part ly because they usually have to stick so close to the rules, bureaucrat s do almostall the day-t o-day work that keeps a governmentrunning. The idea of a bureaucracy is to split up the complicated task of governing a large country into smaller jobs  that  can  be  handled  by  specialist s. Bureaucratic  government  is nothing new; the Roman empire had an enormous and complex bureaucracy, with the bureaucrat s at lower levels reporting to bureaucrat s above them, and so on up to the emperor himself.
+ 
+plut ocracy
+(1) Government  by the wealthy. (2) A controlling class of wealthy people.
+
+
+E.g.
+ Theodore Roosevelt sought to limit the power held by the plut ocracy of wealthy industrialist s.
+
+
+Ploutos was Greek for "wealth," and Plout on, or Plut o, was one of the names used for the Greek god of the underworld, where all the earth's mineral wealth was st ored. So a plut ocracy governs or wields power through it s money. The economic growth in the U.S. in the late 19th century  produced a group of enormously  wealthy plutocrats. Huge companies like John D. Rockefeller's Standard Oil gained serious political power, and Rockefeller was able to influence lawmakers in states where his businesses operated. For this reason, it was said in 1905 that Ohio and New Jersey were plut ocracies, not democracies.
+ 
+
+ 
+PUNC comes from the Latin noun punctum, meaning "point ." A period is a form of punctuation
+that 's literally a point , and a punctured tire has been pricked by a sharp point .
+ 
+punctilious Very careful about the details of codes or conventions.
+
+
+E.g.
+ A proofreader has to be punctilious about spelling and punctuation.
+
+
+A punctilio is a small point -a minor rule, or a lit t le detail of conductin a ceremony. A person who pays close at tention to such minor details is punctilious. Punctiliousness can be valuable, especially for certain kinds of tasks, as long as you don't become so concerned about small point s thatyou fail to pay at tention to the large ones.
+ 
+punctual
+Being on time; prompt .
+
+
+E.g.
+ The company had become much more punctual under the new president , and every meeting started precisely on time.
+
+
+The original meaning of punctual described a puncture made by a surgeon. The word has meant lot s of other things through the centuries, usually involving being precise about small point s. And t oday punctuality is all about time; a punctual train or a punctual payment or a punctual person shows up "on the dot ."
+ 
+compunction
+     (1) Anxiety caused by guilt . (2) A slight misgiving.
+
+
+E.g.
+ Speeding is something many people seem to do without compunction, their only concern being whether they'll get caught .
+
+
+Compunction is most often used in describing people who don't feel it -that  is, who aren't "st ung" or "pricked" by conscience. Ruthless businessmen steal client s and contract s from other businessmen without compunction, and hardened criminals have no compunctions aboutarmed robbery and worse. Notice how compunction can be used in a noncountable way, like guilt ("He killed without compunction"), or in the plural, like qualm ("She had no compunctions about lying"). But words like guilt, qualm, regret, remorse, doubt, and unease, unlike compunction, are often used when talking about people who actually suffer from them.
+ 
+acupuncture
+      A  method  of  relieving  pain  or  curing  illness  by inserting fine needles through the skin at specific point s.
+
+
+E.g.
+ As a lastresorthe agreed to try acupuncture treat ment with Dr. Lu, and his pain vanished like magic.
+
+
+In Latin, acus means "needle," and the English word acupuncture was coined way back in the 17th century to describe a technique the Chinese had already been using for 2,000 years. An acupuncturist may insert many extremely fine needles ata time; the treat mentis usually uncomfortable but not truly painful. In China t oday, even major surgery is often carried out using only acupuncture to kill the pain; it 's also used for many other conditions, including insomnia, depression, smoking, and overweight . Acupuncture is based on ancient theories of bodily energy that  few Western doct ors have ever accepted; buteven though at tempt s to explain it s effect s by Western science have been unsuccessful, it 's now widely recognized by doct ors as effective for pain reduction.
+ 
+POT comes from the Latin adjective potens, meaning "able." Our English word potent means "powerful" or "effective," whether for good or bad. A potent new antibiotic might be able to deal with infections thathave developed resistance to older drugs; an industrial gas might be identified as a potent contribut or to climate change; and a potent  drink might  leave you staggering.
+ 
+potential                       (1) The possibility that something will happen in the future. (2) A cause for hope.
+
+
+E.g.
+ If the plan works we'll be millionaires, but the potential for disaster is high.
+
+
+Potential can be either good or bad. St udying hard increases the potential for success, but wetroads increase the potential for accident s. But when a person or thing "has potential," we always expect something good from itin the future. As an adjective (as in "potential losses," "potential benefit s," et c.), potential usually means simply "possible." In science, however, the adjective has a special meaning: Potential energy is the kind of st ored energy thata boulder sit ting at the t op of a cliff has (the opposite of kinetic energy, which is whatithas as itrolls down that cliff).
+ 
+impotent Lacking power or strength.
+
+
+E.g.
+ The  government  now  knows  it 's  ut terly  impotent to st op  the  violence  raging  in  the countryside, and has basically retreated to the capital city.
+
+
+A police depart ment may be impotent to st op the flow of drugs into a neighborhood. A group of countries may be impotent to force another country to change it s human-right s policies. The impotence of a prime minister may be shown by her inability to getan important piece of legislation passed. Impotentand impotence may also have a special meaning, when they refer to a man's inability to have sexual intercourse.
+ 
+plenipotentiary
+          A  person, such  as  a  diplomat , who  has complete power to do business for a government .
+
+
+E.g.
+ In the Greathall, in the presence of the Empress, the plenipotentiaries of four European nations put their signatures on the treaty.
+
+
+Back in the 12th century, when the Roman Catholic Church in some ways resembled the powerful Roman empire thathad come before it , the Church revived the Roman concept of an official with plena potens-"full powers"-to negotiate agreement s (see PLE/PLEN). Whereas an ambassador could only make offers thata faraway ruler had specified, often weeks or months earlier, a plenipotentiary could negotiate an entire agreement withoutchecking back constant ly with his ruler. Today, with instantelectronic communications, this distinction has generally lostit s importance, but  there are still ambassadors who wouldn't  be allowed at  a negotiating table.
+ 
+potentate
+A powerful ruler.
+
+
+E.g.
+ After 18 years as president of the college, he wielded power like a medieval potentate, and no one on the faculty or staff dared to challenge him.
+
+
+Like such tit les as grand vizier, caliph, and khan, potentate summons up thought s of absolute rulers of an earlier age in such lands as Turkey, Persia, and India. It often suggest s a person who uses power or authority in a cruel and unjust way-thatis, a tyrant . Today, though it 's still used as a tit le by the organization called the Shriners, it 's more often used humorously ("Supreme Intergalactic Potentate," "Potentate of Pasta," et c.).
+ 
+
+ 
+Greek and Latin Borrowings
+
+ambrosia
+  (1) The food of  the  Greek and Roman gods. (2) Something extremely pleasant to taste or smell.
+
+
+E.g.
+ After two days lostin the woods, the simple stew tasted like ambrosia to them.
+
+
+Ambrosia literally means "immortality" in Greek, and in Greek and Roman mythology only the immortals-the gods and goddesses-could eatambrosia or drink nectar. Both may have been divine forms of honey. The gods also used nectar and  ambrosia  like  oils  for  ceremonial anointing, and a mixture of water, oil, and fruit s called ambrosia came to be used in human ceremonies as well. Since we can't know what the mythical ambrosia tasted or smelled like, we mere mortals are free to give the name to our favorite ambrosial dessert -perhaps one involving oranges, coconut , and heavy cream.
+ 
+dogma              (1)  Something  treated  as  established  and  accepted  opinion. (2) A principle or set of principles taught by a religious organization.
+
+
+E.g.
+ New findings abouthow animals communicate are challenging the current dogma in the field.
+
+
+Religious dogma and scientific dogma are sometimes at odds, as in argument s bet ween those who believe in the biblical st ory of creation and those who believe in evolution. Since all dogma resist s change, argument s of any kind are harder to resolve when both sides are dogmatic in their beliefs. Dogma and dogmatic are generally used disapprovingly; it 's always other people who believe unquestioningly in dogma and who take a dogmatic approach to importantissues.
+ 
+gratis                     Withoutcharge; free.
+
+
+E.g.
+ The service is gratis, since it comes as part of a package deal.
+
+
+Gratis comes from the Latin word for "favor"; so in English a party favor is a small item given gratis to everyone at tending a party. Gratis is used as both an adjective ("The drinks were gratis") and an adverb ("Drinks were served gratis"). Buthowever it 's used, it means "free."
+ 
+eureka                        An exclamation used to express triumph and delight on a discovery.
+
+
+E.g.
+ The mountain t own of Eureka, California, was named for the cries of delight by prospect ors when they discovered gold in them thar hills.
+
+
+Eureka means "I have found" in Greek. The st ory goes that the Greek invent or Archimedes, given the task of determining the purity of gold in a crown, shouted "Eureka!" one day after stepping into a bath and making water slop over the side, when he suddenly realized that the weight of water displaced indicated the bulk of his body, but thata larger body made of lighter mat ter might weigh the same but would displace more water. Thus, a crown in which lighter metal had secret ly been mixed with the gold would reveal it self in the same way. The st ory may not be true, but we still shout "Eureka!" when we make a sudden, welcome discovery.
+ 
+per se                    By, of, or in it self; as such.
+
+
+E.g.
+ He claims that the reason for the invasion wasn't oil per se, butrather the country's dangerous military power, which had been made possible by it s oil.
+
+
+We generally use per se to distinguish bet ween something in it s narrow sense and some larger thing thatitrepresent s. Thus, you may have no objection to educational testing per se, butrather to the way testing is done. An opposition party may at tack a president 's policy not because they dislike the policy per se but because they want to weaken the president . And when New York's police chief decided to crack down on small crimes, it wasn't the small crimes per se that were his target , butinstead the larger crimes which he believed would be reduced because of this new approach.
+ 
+opus     A creative work, especially a musical composition or set  of  compositions numbered in order of publication.
+
+
+E.g.
+ Beethoven's Ninth Symphony is also known as Opus (Op.) 125.
+
+
+A literary opus is often a single novel, though the word may sometimes refer to all of a writer's works. But opus  normally  is used for musical works. Mendelssohn's Opus  90 is  his Italian Symphony, for example, and Brahms's Op. 77 is his Violin Concert o. Since many composers' works were never given opus numbers in an orderly way, they now often have catalog numbers assigned by later scholars. So Haydn's Symphony No. 104 is Hob.104 (Hob. is short for Anthony van Hoboken, the cataloger), and Mozart 's Marriage of Figaro is K.492 (K. stands for Ludwig KE.g.
+chel).
+ 
+impet us                     (1) A driving force or impulse; something that makes a person try or work hard; incentive. (2) Moment um.
+
+
+E.g.
+ The promise of a nice bonus gave us all an added impet us for finishing the project on time.
+
+
+An impet us can be something positive and pleasant , or something negative and unpleasant , butin either case it stimulates action. The need to earn a living provides many people with the impet us to drag themselves out of bed five mornings a week. On the other two days, the impet us might be the smell of bacon cooking, or the idea of an early-morning round of golf. Impetus can be used either with an or the in front of it ("The accident provided an impet us for changing the safety regulations") or without them ("His discoveries have given impet us to further research").
+ 
+thesis         (1) An opinion or proposition thata person present s and tries to prove by argument . (2) An extended paper that contains the result s of original research, especially one writ ten by a candidate for an academic degree.
+
+
+E.g.
+ She's done all the coursework needed for her master's degree buthasn'tyet completed her thesis.
+
+
+In high school, college, or graduate school, st udent s often have to write a thesis on a t opic in their major field of st udy. In many fields, a final thesis is the biggestchallenge involved in get ting a master's degree, and the same is true for st udent s st udying for a Ph.D. (a Ph.D. thesis is often called a dissertation). Buta thesis may also be an idea; so in the course of the paper the st udent may put forth several theses (notice the plural form) and at tempt to prove them.
+ 
+
+ 
+
+ 

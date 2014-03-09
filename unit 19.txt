@@ -1,0 +1,418 @@
+ 19
+
+
+BIO GEN FUNCT MUT FRACT TELE PHIL NEG DEC CENT NumberWords
+Quiz19-1 Quiz19-2 Quiz19-3 Quiz19-4 Quiz19-5 ReviewQuizzes19
+
+BIO comes from the Greek word for "life," and forms the base for many English words. Biology, for instance, is the st udy of living forms and life processes; the biosphere is the entire area of and above the earth where life can exist ; and biotechnology is the use of living organisms to create useful product s.
+ 
+bionic                      Made stronger or more capable by electronic or mechanical devices.
+
+
+E.g.
+ Bionic feetand hands for amputees have ceased to be mere sci-fi fantasies and are becoming realities.
+
+
+The science of bionics uses knowledge abouthow biological systems work to help solve engineering problems. The material Velcro, for example, was inspired by the way burrs behave when they stick to your clothes, and some computer chips are now wired in ways thatimitate the "wiring" of the brain and nervous system. Butin popular use, the adjective bionic almostalways describes artificial limbs or other bodily part s that work as much like real ones as possible. A perfect bionic arm would move and function as easily as a real arm-a goal we're rapidly get ting closer t o.
+ 
+biopsy                         The removal and examination of tissue, cells, or fluids from a living body.
+
+
+E.g.
+ Everyone feltrelieved when the result s of the biopsy showed the t umor wasn't cancerous.
+
+
+Mat ter examined in a biopsy is always taken from a living organism. Most biopsies are done by using a needle to extract tissue or fluid, but some may instead require cut ting, and others may amount to nothing more than swabbing the inside of the patient 's cheek. Biopsies are best known as a means of detecting cancer, buta doct or may also take a biopsy of heart muscle to investigate suspected heart disease, for example, or perform a biopsy on a pregnant woman to test for disorders in the fet us.
+ 
+biodegradable
+        Able to be broken down into harmless substances by microorganisms or other living things.
+
+
+E.g.
+ Though the advertisement s promised that the entire package was biodegradable, environmentalist s expressed their doubt s.
+
+
+In biodegradable, with it s root grad, "to step or move," and it s prefix de- "downward," we getan adjective describing things that can be broken down into basic substances through normal environmental processes. Animal and plant product s are normally biodegradable, but mineral substances such as metals, glass, and plastics usually are not . Newly developed biodegradable plastics are now appearing in numerous product s. However, "biodegradable" product s can vary great ly in how long they take to break down. A loaf of bread may require only a couple of weeks, and a piece of paper may vanish in a couple of months, but some "biodegradable" plastic milk cart ons may take four or five years.
+ 
+symbiosis
+   (1) The close living t ogether of two different forms of life in a way that benefit s both. (2) A cooperative relationship bet ween two people or groups.
+
+
+E.g.
+ The lichen that grows on rocks is produced by the symbiosis of a fungus and an alga, two very different organisms.
+
+
+With  it s  prefix sym-,  "with," symbiosis expresses the notion of  cooperation bet ween living things. Symbiotic associations are found throughout the plantand animal world. You may have read, for instance, of the lit t le blackbird plover, which picks the teeth of the fierce African crocodile. Or the bird called the African honeyguide, which leads a lit t le mammal called the ratel to a bees' nest , which the ratel, protected from the bees by it s thick fur, then breaks open, and both itand the honeyguide feast on the honey. Or even our own bodies, which are home to millions of bacteria-especially the bacterium E. coli in our intestines-and neither we nor E. coli could live without the other. You can probably think of plenty of human relationships that could be called symbiotic as well.
+ 
+GEN, which comes from the Greek genos, meaning "birth," has generated dozens of English words. A set of genes, for instance, gives birth to a living being. And a genealogy is a hist orical map of your family, showing how each generation gave birth to the next .
+ 
+genesis                          Origin, beginning.
+
+
+E.g.
+ The genesis of the project dates back to 1976, when the two young men were roommates at Cornell University.
+
+
+The traditional Greek name for the firstand best -known book of the Bible is Genesis, meaning "origin." Genesis tells the st ories of the creation, Adam and Eve, Cain and Abel, Noah's ark, the Tower of Babel, Abraham and his sons, and more-the st ories thatexplain how the world and humanity were created, as well as much abouthow humanity, and especially the descendant s of Abraham, relate to the rest of the world. Today we use genesis to refer to the creative beginnings of much smaller things, but never unimportant ones.
+ 
+generat or A machine by which mechanical energy is changed into electrical energy
+
+
+E.g.
+ The jungle set t lement depended on a large generat or, which provided electricity for a couple of hours each morning and evening.
+
+
+Generat ors work by rotating a coil of wire in a magnetic field, causing a current to flow in the wire. A generat or may be a huge spinning turbine powered by water, wind, steam, gas, or nuclear reactions, which sends electricity out through power lines to thousands of cust omers. But normally when we use the word, we're thinking of a small machine powered by gasoline or diesel, such as you might keep in your basement for those times when a st orm knocks outyour power, to create electricity rightin front of your eyes. A special kind of generat or called an alternat or powers a car's electrical system (including it s light s, power steering, et c.) while the car is running.
+ 
+genre               Kind, sort ; especially a distinctive type or category of literature, art , or music.
+
+
+E.g.
+ Opera was a new genre for her, since all her compositions up until then had been songs and chamber music.
+
+
+Genre, as you might guess from the way it sounds, comes straight from French, a language based on Latin. It 's closely related to genus, a word you may have encountered in biology class. Both words contain the gen-  root  because  they  indicate  that  everything  in  a  particular category (a genre or a genus) belongs to the same "family" and thus has the same origins. So the main genres of classical music would include symphonies, sonatas, and opera, and the major genres of literature would include novels, short st ories, poetry, and drama. But within the category of novels, we could also say that detective novels, sci-fi novels, romance novels, and young-adult novels are separate genres.
+ 
+carcinogenic
+      Producing or causing cancer.
+
+
+E.g.
+ Although she knows all t oo well that the t obacco in cigaret tes is carcinogenic, she's t oo addicted to quit .
+
+
+It sometimes seems as if the list  of  carcinogenic  substances  get s  longer  every  day. A substance such as a food additive that 's been in common use for years may unexpectedly show signs of being carcinogenic in laborat ory experiment s. When thathappens,  the suspected carcinogen will often have to be  withdrawn  from the  market . When  a  building material like asbest os turns out to be a carcinogen, it may also have to be physically removed from buildings. English has hundreds of other scientific words ending in -genic (such as allergenic), and in almostall of them the ending means "causing."
+ 
+
+ 
+FUNCT comes from the Latin verb fungi, "to perform, carry out ." If your car is functional, it 's able to perform it s function of providing transportation. Buta functional illiterate is a person who, for all practical or functional purposes, mightas well not be able to read or write atall.
+ 
+functionary
+ (1)  Someone  who  performs  a  certain  function.  (2) Someone who holds a position in a political party or government .
+
+
+E.g.
+ He was one of a group of party functionaries assigned to do the dirty work of the campaign.
+
+
+For most of us, being described as a functionary wouldn't be a compliment . The word refers especially to a person of lower rank, with lit t le or no authority, who must carry out someone else's orders. Bureaucratis often a synonym. However, functionary can also refer to the world beyond governmentand offices; a character in  a  play,  for  example,  could  be  called  a functionary if it was obvious thather sole function was to keep the plot moving.
+ 
+malfunction
+    To fail to operate in the normal or usual manner.
+
+
+E.g.
+ An examination of the wreck revealed that the brakes may have malfunctioned as the truck started down the hill.
+
+
+A malfunctioning switch might keep us from turning on a light . A malfunctioning heart valve mightrequire replacement with an artificial valve, and if your immune system malfunctions it may start to at tack healthy cells. And a malfunction in a voting machine could resultin hundreds of votes being miscounted.
+ 
+defunct No longer, living, existing, or functioning.
+
+
+E.g.
+ The company, which had once had annual sales of $150 million, was now defunct .
+
+
+If you know that de- often means "the opposite of" (see DE), it 's easy to guess the meaning of defunct. Shakespeare seems to have been the first  writer to use this adjective, in Henry V. Defunctamerican political parties include the Greenback Party, the Readjuster Party, and the Nullifier Party. Defunctacademy Awards categories include Best  Dance Direction and Bestassistant Direct or. Defunct U.S. auto models include the Dudly Bug, the LuLu, the Hupmobile, the Gas-au-lec, and the Nu-Klea Starlite. But to speak of a person as defunct would sound disrespect ful-which is how it sounds in e. e. cummings's famous poem "Buffalo Bill's defunct ."
+ 
+dysfunctional
+      (1)  Showing  abnormal  or  unhealthy  behaviors  and at tit udes within a group of people. (2) Being unable to function in a normal way.
+
+
+E.g.
+ A psychologist would call their family dysfunctional, buteven though there's a lot of yelling and slamming of doors, they seem pret ty happy to me.
+
+
+Dysfunctional and dysfunction have been used for almosta hundred years, often in medical writing ("brain dysfunction," "a dysfunctional  liver")  but  also  by  social  scientist s  ("a dysfunctional city council," "diplomatic dysfunction"). But they only really entered the general vocabulary in the 1980s, when therapist s and talk-show host s began talking about dysfunctional families. The signs of family dysfunction turned out to be numerous, and it soon began to seem as if pret ty much all our families could be called dysfunctional.
+ 
+MUT comes from the Latin mutare, "to change." Plenty of science-fiction movies-Godzilla, The Fly, The Incredible Shrinking Man-used to be made on the subject of weird mutations, changes in normal people or animals that usually end up causing death and destruction. What causes the unfort unate victim to mutate may be a mysterious or alien force, or perhaps invisible radiation. Though the science in these films isn'talways right on target , the scare fact or of an army of mutants can be hard to beat .
+ 
+commute                    (1) To exchange or substit ute; especially to change a penalty to another one thatis less severe. (2) To travel back and forth regularly.
+
+
+E.g.
+ There was a public out cry at the harshness of the prison sentence, and two days later the governor commuted it to five years.
+
+
+When you commute bet ween a suburb  and  a  city, you're  "exchanging"  one  location  for another. When a chief executive substit utes a life sentence for the death sentence handed down by a court , he or she is commuting the original sentence. Most such commutations are the result of the prisoner's good behavior. A commutator is a device in many electric mot ors thatregularly changes alternating current to direct current .
+ 
+immutable
+    Notable or liable to change.
+
+
+E.g.
+ Early philosophers believed there was an immutable substance at the root of all existence.
+
+
+Mutable means simply "changeable," so when the negative prefix im- is added we getit s opposite. In computer programming, an immutable objectis one that can't be changed after it 's been created. In a constant ly changing world, people who hunger for things as immutable as the laws of nature may try to observe an  immutable  moral  code  and  set  of  values. Unfort unately, immutability isn'ta basic quality of many things in this world.
+ 
+permutation                         A  change   in   the   order  of   a   set   of   object s; rearrangement , variation.
+
+
+E.g.
+ They had rearranged the rooms in the house plans four or five times already, but  the architecthad come up with yetanother permutation.
+
+
+There are six permutations of the let ters A, B, and C, selected two ata time: AB, AC, BC, BA, CA, and CB. As you see, order is importantin permutations. (By contrast , there are only three combinations: AB, AC, and BC.) Permutation is an important conceptin mathematics, especially in the field of probability. But we can use the word more generally to mean any change produced by rearranging existing part s withoutintroducing new ones. Some soap operas, for example, love permutations; the cast of regulars is constant ly being rearranged into new pairs, and even triangles.
+ 
+transmute                           (1) To change in shape, appearance, or nature, especially for the bet ter; to transform. (2) To experience such a change.
+
+
+E.g.
+ Working alone in his clut tered laborat ory in 15th-century Milan, he spent t wenty years searching for a method of transmuting lead into gold.
+
+
+Transmutation changes something over into something else. Thus, a writer may transmute his life into st ories or novels, and an arranger might transmute a lively march t une into a quiet lullaby. In  the  "Myth  of  Er"  at  the  end  of  Plat o's Republic, for example, human  souls are transmuted into the body and existence of their choice. Having learned from their last life what they do not want to be, many choose transmutation into something that seems bet ter. A meek man chooses to be transmuted into a tyrant , a farmer into a dashing (but short -lived) warrior, and so on. But very few seem to have learned anything from their former life that would make their choice a real improvement .
+ 
+
+ 
+FRACT  comes from the Latin verb frangere, "to break or shat ter." A fraction is one of the pieces into which a whole can be broken, and a fracture is a break in a wall, a rock, or a bone.
+ 
+fractious                           (1) Apt to cause trouble or be unruly. (2) Stirring up quarrels; irritable.
+
+
+E.g.
+ Shopping with a fractious child is next to impossible.
+
+
+One of the earliest meanings of fraction was "a break in good feeling"-thatis, an argument or conflict . So a person who start s fight s could be called fractious. A fractious horse is one thathasn't been properly broken or trained. A fractious political party is one whose members keep fighting among themselves. And a fractious baby is one that 's always breaking the home's peace and quiet with angry squalling.
+ 
+fractal     An irregular shape that looks much the same atany scale on which itis examined.
+
+
+E.g.
+ He was showing her the fractals in the local ferns, in which each leaf reproduced the shape of the entire fern.
+
+
+This term was coined in 1975 to describe shapes that seem to existat both the small-scale and large-scale levels in the same natural object . Fractals can be seen in snowflakes, in which the microscopic crystals that make up a flake look much like the flake it self. They can also be seen in tree bark and in broccoli buds. Coast lines often represent fractals as well, being highly uneven at both a large scale and a very small scale. Fractal geometry has been importantin many fields, including astronomy, physical chemistry, and fluid mechanics. And even some artist s are benefiting, creating beautiful and interesting abstract designs by means of fractals.
+ 
+infraction
+    The breaking of a law or a violation of another's right s.
+
+
+E.g.
+ The assistant principal dealt with any st udent s who had commit ted minor infractions of the rules.
+
+
+An infraction is usually the breaking of a law, rule, or agreement . So a nation charged with an infraction  of an  international treaty will usually have to pay a  penalty. In  Federal law, an infraction is even smaller than a misdemeanor, and the only penalty is a fine. Most of us occasionally commitinfractions of parking laws and get ticketed; speeding ticket s are usually for infractions as well, though they go on a permanentrecord and can end up costing you money for years to come. The closely related word infringement generally refers to a violation of a right or privilege; use of another's writings without permission, for example, may be an infringement of the copyright .
+ 
+refraction                     The change of direction of a ray of light or wave of energy as it passes atan angle from one substance into another in which it s speed is different .
+
+
+E.g.
+ From where I was standing, the refraction made it look as if her legs underwater were half their actual length.
+
+
+The root of refraction is seen in the notion that the path of a ray of light or wave of energy is "broken" when itis deflected or turned. The effect s of refraction can be seen in a rainbow, which is formed when lightrays passing into (and reflecting out of) water droplet s are bentat differentangles depending on their color, so that the light separates into bands of color. The amount of refraction depends on the angle and the type of mat ter; refraction can occur even when passing through different kinds of air. A mirage, such as you might see in the desert or over a patch of asphaltin the summer, occurs when light passing through warm air meet s the very hotair near the surface; reflecting the sky, it often resembles a lake.
+ 
+TELE has as it s basic meanings "distant " or "ata distance." A telescope is for looking at far-off object s; a camera's telephoto lens magnifies a distant scene for a phot ograph; and a television let s us watch things taking place far away.
+ 
+telegenic              Well-suited to appear  on  television,  especially  by  having  an appearance and manner at tractive to viewers.
+
+
+E.g.
+ The local anchorpeople all have telegenic faces and greathair, though they don'talways seem to know a lotabout the economy or political science.
+
+
+The word telegenic, a blend of "television" and "phot ogenic," firstappeared back in the 1930s, before hardly anyone owned a TV. With the supreme importance of TV cameras in politics, people running for political office t oday worry about being telegenic enough to have a successful career. Even event s have been described as telegenic; unfort unately, such event s are often human tragedies, such as fires, earthquakes, or floods, which happen to broadcast well and capture the interest of the viewers.
+ 
+teleological
+ Showing  or relating to design  or purpose, especially in nature.
+
+
+E.g.
+ Many naturalist s object to the teleological view that sees everything in nature as part of a grand design or plan.
+
+
+Teleology has the basic meaning "the st udy of  ends or purposes."  So Arist ot le's famous "teleological argument " claims thatanything complex musthave a creat or, and thus that God exist s. And a teleological explanation of evolutionary changes claims thatall such changes occur for a definite purpose. But the type of morality called "teleological ethics" doesn'tinvolve God atall: instead, it claims that we should judge whether an actis good or bad by seeing if it produces a good or bad result , even if the actinvolves harming or killing another person.
+ 
+telemetry                       The science or process of measuring such things as pressure, speed, or temperature, sending the result usually by radio to a distant station, and recording the measurement s there.
+
+
+E.g.
+ The telemetry of the satellite had gone dead in 1999, and it s fate remains a mystery.
+
+
+Telemetry is used to obtain data on the internal functioning of missiles, rocket s, unmanned planes, satellites, and probes, providing data on such fact ors as position, altit ude, and speed as well as conditions like temperature, air pressure, wind speed, and radiation. Weather forecasters rely on telemetry to map weather pat terns. Astronaut s on the space shut t le are monit ored with telemetry that measures and transmit s readings on their blood  pressure, respiration, and heartrates. Similar kinds of telemetry are used by biologist s to st udy animals in the wild and keep track of their populations and movement s. Telemetry is also widely used in modern agriculture, often to regulate irrigation.
+ 
+telecommute                           To work at  home using an electronic link with a central office.
+
+
+E.g.
+ A dozen of our employees are now telecommuting, and we calculate thatalt ogether they're saving 25 gallons of gasoline and it s pollution every day.
+
+
+This word has been around since the early 1970s, when computer terminals in the home first began to be connected to so-called mainframe  computers  by  telephone  lines. Since  the creation of the World Wide Web in 1991, and with the widening access to broadband connections, telecommuting has grown to the point that the U.S. is now home to many millions of occasional telecommuters. Telecommuting can make work much easier for people with young children and people with disabilities, and because of it s obvious environmental benefit s and the lessening of traffic congestion, telecommuting is now officially encouraged by federal legislation. Still, only a fraction of those who could be telecommuting are actually doing so.
+ 
+
+ 
+PHIL comes from the Greek word meaning "love." In philosophy, it 's joined with sophia, "wisdom," so philosophy means literally "love of wisdom." When joined with biblio-, "book," the resultis bibliophile, or "lover of books." And Philadelphia, containing the Greek word adelphos, "brother," was named by it s Quaker founder, William Penn, as the city of "brotherly love."
+ 
+oenophile                      A person with an appreciation and usually knowledge of fine wine.
+
+
+E.g.
+ As an amateur oenophile, he was constant ly talking to his friends in the vocabulary of wine tasting.
+
+
+The root oeno- comes from  the  Greek  word  meaning  "wine."  The  oenophile  should  be distinguished from the oenologist, or "st udent of wine," who has a technical knowledge of the cultivation of wine grapes and of the whole winemaking process. Oenophiles may not know how to make a great wine, but they know one when they taste it . Not only that , but they can describe it using nouns like nose, finish, and bouquet, as well as adjectives such as woody, full- bodied, robust, and noble.
+ 
+philatelist
+ A person who collect s or st udies stamps.
+
+
+E.g.
+ The U.S. Postal Service issues first -day covers of each new stamp design especially for philatelist s.
+
+
+The first postage stamps were made available on May 1, 1840, in England, and it didn't take long for the hobby of stamp collecting to arise. Within a year, a young London lady was let ting it be known in a newspaper advertisement that she was "desirous of covering her dressing room with cancelled postage stamps." Philately has been alive and well ever since, though modern philatelist s-including rock stars, English kings, and American president s-are more likely to put the stamps they collectin special albums.
+ 
+Anglophile                          A person who great ly admires or favors England and English things.
+
+
+E.g.
+ His grandparent s were Anglophiles, and whenever they had guest s in the afternoon the beautiful silver tea service would come out .
+
+
+Even after fighting two wars against Britain, Americans continued to regard England with more fondness than perhaps any other country. For much of our hist ory, Americans have sought to imitate the British in any number of ways-American movie stars even used to adopt British accent s-and the two countries have long been close allies. But Britain isn't the only country Americans fall in love with; Francophiles (France-lovers), Germanophiles (Germany-lovers), and Italophiles (Italy-lovers) are also common. In the 19th century, Russian Slavophiles called for rejecting European culture in favor of homegrown Russian culture (Slavs being those who speak a Slavic language such as Russian or Polish). Occasionally phil- words are turned around; thus, someone who is philosemitic is a lover of Jewish culture.
+ 
+philanthropy (1) A charitable act  or gift . (2) An organization that distributes or is supported by charitable contributions.
+
+
+E.g.
+ Her last philanthropy was dedicated to protecting a vastarea in central Africa where many of the greatapes lived.
+
+
+With  it s anthro-  root  (see ANTHROP) , philanthropy means literally "love of mankind." Thus, philanthropy is giving money for a purpose or cause benefiting people who you don't personally know. (Animals are usually included as well.) Individuals have often set up their own permanent philanthropic organizations in the form of foundations. The greatestamerican philanthropists have included Warren Buffet t , Bill Gates, Andrew Carnegie, and John D. Rockefeller, but tens of millions of us could be considered philanthropist s on a much smaller scale.
+ 
+NEG and it s variant s nec- and ne- are prefixes of denial or refusal in Latin, and the Latin verb negare means "to  say no." To negate something is to make itineffective, and something negative denies, contradict s, refuses, or reverses.
+ 
+negligent                     (1) Failing to take proper or normal care. (2) Marked by or likely to show neglect .
+
+
+E.g.
+ The Army Corps of Engineers was found negligent for having failed to keep the New Orleans levees in good repair.
+
+
+To be negligentis to be neglectful. Negligence  is an  important legal concept ; it 's usually defined as the failure to use the care thata normally careful person would in a given situation. Negligence is a common claim in lawsuit s regarding medical malpractice, auto accident s, and workplace injuries. Butyou can also be negligentaboutanswering your e-mail, or negligentin the way you dress. (The original garment called a negligee was worn by women who had neglected to get fully dressed.) The legal meanings of negligentand negligence, however, tend to be the ones we most often encounter nowadays.
+ 
+abnegation
+  Self-denial.
+
+
+E.g.
+ She's been denying herself pleasures since she was a child, so she's actually at tracted by the life of abnegation thata nun leads.
+
+
+Abnegation plays an important partin the teachings of all the major religions. The founder of Buddhism was a prince who gave up all his worldly goods when he discovered the world of poverty that lay out side the palace gates, and abnegation has been a Buddhism practice ever since. Hinduism has an even older tradition of abnegation. Special periods of abnegation and fasting may even be included in a religion's yearly calendar; serious Christians give up some pleasure for the 40-day period of Lent , for instance, and Muslims are forbidden to eat during daylighthours during the month of Ramadan.
+ 
+negligible
+   So small as to be neglected or disregarded.
+
+
+E.g.
+ Local weather forecasters had made it sound like the blizzard of the century, but the amount of snow turned out to be negligible.
+
+
+Negligible comes from the same Latin verb as neglect, so something negligible is literally "neglectable." If an accidentresult s in negligible damage to your car, you should be thankful. If two years of intense focus on testing in the classroom result s in a negligible improvementin st udent test scores, it 's probably time to try something new.
+ 
+renege                  To go back on a promise or commit ment .
+
+
+E.g.
+ If his part ners renege at this point , the whole project will probably fall through.
+
+
+To renege on a betis to refuse to pay up when you lose. To renege on a promise of marriage, or on a deal of any kind, is to pull out . Hist ory is full of promises and commit ment s and treaties that were reneged on, such as the many treaties with Native Americans thatamerican set t lers and the U.S. government went back on over a period of almost 300 years. A synonym is welsh ("He always welshes on his deals"); however, since that word may have come from Welsh, meaning a native of Wales in Britain, some people think it might be offensive.
+ 
+
+ 
+Number Words
+
+DEC comes from both Greek and Latin and means "ten." So a decade last s for ten years; the
+decimal system is based on ten; and a decahedron is a geometrical shape with ten sides.
+ 
+decalogue                       (1) (capitalized) The Ten Commandment s. (2) Any basic set  of rules that must be obeyed.
+
+
+E.g.
+ At 15 she posted a decalogue of life rules on her bedroom door, starting with "1. Be respect ful to teachers."
+
+
+In decalogue the root deca- is combined with logos, Greek for "word." In the Biblical book of Exodus, the original Decalogue, or Ten Commandment s, was handed to Moses by God at op Mount Sinai. In Jewish and Christian tradition, the Ten Commandment s are regarded as laws handed down from the highestauthority and as the foundation of morality. They include commands to honor God, the Sabbath day, and one's parent s, and bans on worshiping images, swearing, murder, adultery, theft , lying about others, and envying what others have. Individuals have often had their own personal decalogues; Thomas Jefferson's "ten commandment s" started off with "Never put off till t omorrow whatyou can do t oday."
+ 
+decathlon An athletic contest made up of ten part s.
+
+
+E.g.
+ Though the U.S. has dominated the Olympic decathlon for it s whole modern hist ory, the 1948 vict ory by the 17-year-old Bob Mathias still ast onished the world.
+
+
+Decathlon from deca- and athlon,  "contest ,"  means  "ten  contest s."  The  ancient  Greek Olympics held five-contest competitions, or pentathlons, that were based on the skills needed in bat t le. The modern Olympic decathlon, which was born in 1912, consist s of the 100-meter run, 400-meter run, 1500-meter run, 110-meter high hurdles, javelin throw, discus throw, shot put , pole vault , high jump, and long jump. The original winner was the legendary Jim Thorpe, who would later be judged the greatestamerican athlete of the 20th century. And ever since,  the Olympic decathlon winner has been called the finestall-around athlete in the world.
+ 
+decibel                          A unit based on a scale ranging from 0 to about 130 used to measure the loudness of sound, with 0 indicating the least sound that can be heard and 130 the average level that causes pain.
+
+
+E.g.
+ She worries about the damage thathigh decibel levels can cause, and always wears ear protection when mowing the lawn.
+
+
+The bel in decibel honors the invent or of the telephone, Alexander Graham Bell. Decibels work on a logarithmic scale (you may need to look up logarithm), so 20 decibels is 10 times as strong as 10 decibels, and 50 decibels is 1,000 times as strong as 20 decibels. The decibel readings of some everyday sounds make for interesting comparisons. Whispers and rust ling leaves usually register under 20 decibels, the average level of conversation is about 50 decibels, and noisy fact ories or office machinery may have decibel levels of 90 to 100. In the category of sounds bet ween 100 and 120 decibels, which can eventually cause deafness, we find elevated trains, artillery-and rock concert s.
+ 
+decimate
+ To reduce drastically or destroy most of.
+
+
+E.g.
+ Before the development s of modern medicine, diphtheria and typhoid could decimate the populations of entire t owns and cities.
+
+
+Commanders in the Roman army t ook discipline seriously. Mutiny in the ranks was dealt with by selecting, through drawing lot s, one soldier in every ten and making the other nine club or st one the unfort unate winner of this gruesome lot tery to death. The dec- in decimate thus reflect s this Roman practice, which was ordered by such well-known leaders as Crassus, Mark Ant ony, and August us. But over time, the word's meaning has shifted, and t oday italmostalways describes great destruction or loss of life. So, for example, we can say thata wave of layoffs has decimated a company's workforce, the populations of some of Africa's greatest wild animals have been decimated by poaching, or  aerial bombardment  has  decimated  whole sections of a city.
+ 
+CENT, from the Latin centum, means "one hundred." A dollar is made up of a hundred cents, though other monetary systems use centavos or centimes as the smallest coin. A centipede has whatappears to be a hundred feet , though the actual number varies great ly. But there really are a hundred years in a century.
+ 
+centenary
+     A 100th anniversary or the celebration of it ; a centennial.
+
+
+E.g.
+ The company is celebrating the centenary of it s founding with a lavish banquet .
+
+
+A centenary, like it s cousin centennial, is an anniversary. Thus, the year 2013 may mark the centenary of a t own's founding, and the year-long calendar of public event s that the t own sponsors for the occasion-thatis, the celebration of the anniversary-can also be called a centenary. Individuals have their own centenaries, which usually celebrate their births; thus, Gerald Ford's centenary will occur in 2013, and John Kennedy's in 2017. And if you live long enough to be a centenarian, you'll be around to join the celebrations.
+ 
+centigrade
+Relating to a temperature scale in which 0бу is the freezing point of water and 100бу is it s boiling point .
+
+
+E.g.
+ The normal temperature of a human body is 37бу centigrade.
+
+
+The centigrade scale is essentially identical to the Celsius scale, the standard scale by which temperature is measured in most of the world. Anders Celsius of Sweden first devised the centigrade scale in the early 18th century. Butin his version, 100бу marked the freezing point of water, and 0бу it s boiling point . Later users found it less confusing to reverse these t wo. To convert Fahrenheit degrees to centigrade, subtract  32  and  multiply  by  5/9. To  convert centigrade to Fahrenheit , multiply by 9/5 and add 32.
+ 
+centimeter
+  A length measuring 1/100th of a meter, or about 0.39 inch.
+
+
+E.g.
+ There are 2.54 centimeters in an inch, 30.48 centimeters in a foot .
+
+
+In the metric system, which is used in most countries of the world, each basic unit of measure of length, area, or volume can be divided into centimeters. A meter consist s of 100 centimeters, a square meter consist s of 10,000 square centimeters, and a cubic meter consist s of 1,000,000 cubic centimeters.
+ 
+centurion
+ The officer in command of a Roman century, originally a troop of 100 soldiers.
+
+
+E.g.
+ Centurions and their centuries were the backbone of the greatroman armies.
+
+
+In ancientrome, a century was approximately equal to a company in the U.S. Army, and a centurion was roughly equivalent to a captain. Centurions play a role in the New Testament ; Jesus performs a miracle for a centurion in Capernaum, centurions are presentat the crucifixion, and in later years St . Paul is arrested by centurions. According to a writer of the time, centurions were chosen for their size and strength, their abilities at  swordplay and at throwing missiles, and the quality of their discipline, which was part ly shown by how well their soldiers kept their own armor polished.
+ 
+
+ 
+
+ 
